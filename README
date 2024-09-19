@@ -26,3 +26,4 @@ Tab Title Fetcher is a simple Chrome extension that allows you to fetch and disp
    
 3. Click the "Get Tab Title" button, and the title of the current tab will be displayed below the button.
    ![Step 3: Display Tab Title](extensionImgs/display_tab_title.png)
+
